@@ -25,5 +25,5 @@
 2. **index.html:** archivo principal.
 3. **README.md:** archivo con descripción del proyecto realizado.
 
-### Aquí la muestra de la estructura del proyecto
+### Ahora este es mi cambio (Lesly) 
 ![estructura](assets/docs/estructura-archivos.png "estructura")# prueba-errores-estrella
